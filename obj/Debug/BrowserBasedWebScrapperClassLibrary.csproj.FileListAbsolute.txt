@@ -1,0 +1,6 @@
+D:\repos\JobSearchTable\BrowserBasedWebScrapperClassLibrary\bin\Debug\BrowserBasedWebScrapperClassLibrary.dll
+D:\repos\JobSearchTable\BrowserBasedWebScrapperClassLibrary\bin\Debug\BrowserBasedWebScrapperClassLibrary.pdb
+D:\repos\JobSearchTable\BrowserBasedWebScrapperClassLibrary\obj\Debug\BrowserBasedWebScrapperClassLibrary.csproj.AssemblyReference.cache
+D:\repos\JobSearchTable\BrowserBasedWebScrapperClassLibrary\obj\Debug\BrowserBasedWebScrapperClassLibrary.csproj.CoreCompileInputs.cache
+D:\repos\JobSearchTable\BrowserBasedWebScrapperClassLibrary\obj\Debug\BrowserBasedWebScrapperClassLibrary.dll
+D:\repos\JobSearchTable\BrowserBasedWebScrapperClassLibrary\obj\Debug\BrowserBasedWebScrapperClassLibrary.pdb
