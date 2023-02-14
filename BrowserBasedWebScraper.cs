@@ -44,6 +44,19 @@ namespace BrowserBasedWebScrapperClassLibrary
             thread.Start();
             return tcs.Task;
         }
+
+        public static string getHtml(string url)
+        {
+            WebBrowser webBrowser = new WebBrowser();
+            webBrowser.ScriptErrorsSuppressed = true;
+            webBrowser.Navigate(url);
+            while (webBrowser.ReadyState != WebBrowserReadyState.Complete)
+            {
+                Application.DoEvents();
+            }
+
+            return webBrowser.Document.Body.InnerHtml;
+        }
     }
 
 }
